@@ -1,0 +1,5 @@
+D:\Work\Code\CSharp\Self\QKSDK\CefDemo\SocketDemo1\bin\Debug\SocketDemo1.exe
+D:\Work\Code\CSharp\Self\QKSDK\CefDemo\SocketDemo1\bin\Debug\SocketDemo1.pdb
+D:\Work\Code\CSharp\Self\QKSDK\CefDemo\SocketDemo1\obj\Debug\SocketDemo1.csprojResolveAssemblyReference.cache
+D:\Work\Code\CSharp\Self\QKSDK\CefDemo\SocketDemo1\obj\Debug\SocketDemo1.exe
+D:\Work\Code\CSharp\Self\QKSDK\CefDemo\SocketDemo1\obj\Debug\SocketDemo1.pdb
